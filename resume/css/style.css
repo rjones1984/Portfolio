@@ -50,6 +50,10 @@ main {
   clear: left;
 }
 
+p {
+  margin: 0 3%;
+}
+
 section {
   padding-bottom: 1em;
   border-bottom: solid 2px Cadetblue;
