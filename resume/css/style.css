@@ -23,8 +23,15 @@ h3 {
   margin: 0;
 }
 
-.header {
+header {
+  display: flex;
+  justify-content: space-between;
+}
 
+.avatar {
+  max-width: 150px;
+  max-height: 150px;
+  border-radius: 100%;
 }
 
 .job  {
